@@ -15,11 +15,17 @@ I'm a passionate Full Stack Web Developer and NPTEL honors student currently lea
 
 Here are some of my notable projects:
 
-- **Portfolio**: A personal portfolio website showcasing my skills and projects. [View Repository](https://github.com/Nikhhh14/Portfolio)
+- **Portfolio Website**  
+  A personal portfolio website showcasing my skills and projects.  
+  🔗 [View Repository](https://github.com/Nikhhh14/Portfolio)
 
-- **Hospital Management System**: A web-based application for managing hospital operations. [View Repository](https://github.com/Nikhhh14/Hospital-Management-System)
+- **Hospital Management System**  
+  A web-based application for managing hospital operations.  
+  🔗 [View Repository](https://github.com/Nikhhh14/Hospital-Management-System)
 
-- **Quiz App**: A Java-based application for conducting quizzes. [View Repository](https://github.com/Nikhhh14/Quiz-App)
+- **Quiz App**  
+  A Java-based application for conducting quizzes.  
+  🔗 [View Repository](https://github.com/Nikhhh14/Quiz-App)
 
 ## 📊 GitHub Stats
 
@@ -27,9 +33,14 @@ Here are some of my notable projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhhh14&layout=compact&theme=radical)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nikhhh14&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhhh14&theme=radical&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔗 Connect with me
 
-- LinkedIn: [Nikhita Pattanshetti](https://www.linkedin.com/in/nikhita-pattanshetti-03827127b)
-
-
-
+- 💼 LinkedIn: [Nikhita Pattanshetti](https://www.linkedin.com/in/nikhita-pattanshetti-03827127b)
