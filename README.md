@@ -27,6 +27,10 @@ Here are some of my notable projects:
   A Java-based application for conducting quizzes.  
   🔗 [View Repository](https://github.com/Nikhhh14/Quiz-App)
 
+- **Solo Leveling Quest App**  
+  A gamified quest tracker inspired by the Solo Leveling series, helping users level up through real-life daily tasks and challenges.  
+  🔗 [View Repository](https://github.com/Nikhhh14/Solo-Leveling-Quest-App)
+
 ## 📊 GitHub Stats
 
 ![Nikhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical)
