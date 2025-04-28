@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nikhita Pattanshetti
 
-I'm a passionate Full Stack Web Developer and NPTEL honors student currently learning and building projects with Django, Python, and web technologies.
+I'm a passionate Full Stack Web Developer and currently learning and building projects with Django, Python, and web technologies.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
