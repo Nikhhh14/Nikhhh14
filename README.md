@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Nikhita Pattanshetti
 
 Highly enthusiastic team player aspiring to work with a team of motivated professionals in challenging environment to augment my management, techincal and leadership abilities.
-As an aspiring software developer, I am driven by an insatiable curiosity and passion for crafting innovative solutions that solve real-world problems. With a focus on software design and development, I aim to create impactful, user-centered applications that blend functionality with creativity.
 I'm excited to connect with like-minded professionals, mentors, and organizations that share a passion for technology and innovation. If you're looking for someone with a fresh perspective, a hunger for learning, and a commitment to making an impact, let's connect!
 
 ## 🔧 Technologies & Tools
