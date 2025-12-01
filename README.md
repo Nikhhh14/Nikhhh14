@@ -43,13 +43,6 @@ Here are some of my notable projects:
 
 ---
 
-## 📊 GitHub Stats
-
-![Nikhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhhh14&layout=compact&theme=radical)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhhh14&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
