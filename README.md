@@ -1,9 +1,12 @@
 # Hi there 👋, I'm Nikhita Pattanshetti
 
-Highly enthusiastic team player aspiring to work with a team of motivated professionals in challenging environment to augment my management, techincal and leadership abilities.
+Highly enthusiastic team player aspiring to work with a team of motivated professionals in a challenging environment to grow my management, technical, and leadership abilities.  
 I'm excited to connect with like-minded professionals, mentors, and organizations that share a passion for technology and innovation. If you're looking for someone with a fresh perspective, a hunger for learning, and a commitment to making an impact, let's connect!
 
+---
+
 ## 🔧 Technologies & Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -12,9 +15,15 @@ I'm excited to connect with like-minded professionals, mentors, and organization
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
+---
+
 ## 🏆 Projects
 
 Here are some of my notable projects:
+
+- **TicTacToe (Java Game)**  
+  A classic Tic-Tac-Toe game implemented in Java, demonstrating core concepts like conditional logic, loops, and basic game design.  
+  🔗 [View Repository](https://github.com/Nikhhh14/TicTacToe)
 
 - **Portfolio Website**  
   A personal portfolio website showcasing my skills and projects.  
@@ -32,19 +41,26 @@ Here are some of my notable projects:
   A gamified quest tracker inspired by the Solo Leveling series, helping users level up through real-life daily tasks and challenges.  
   🔗 [View Repository](https://github.com/Nikhhh14/Solo-Leveling-Quest-App)
 
+---
+
 ## 📊 GitHub Stats
 
-![Nikhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical)
-
+![Nikhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhhh14&layout=compact&theme=radical)
+
+---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhhh14&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikhhh14&theme=radical&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 🔗 Connect with me
 
