@@ -45,65 +45,17 @@
 
 <div align="center">
 
-### 🔥 **🏥 Hospital Management System**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhhh14&repo=Hospital-Management-System&theme=radical)](https://github.com/Nikhhh14/Hospital-Management-System)
-> Complete hospital management solution with patient records, appointments, and admin dashboard using Java Spring Boot & MySQL
-
-### 🎮 **TicTacToe Game (Java)**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhhh14&repo=TicTacToe&theme=radical)](https://github.com/Nikhhh14/TicTacToe)
-> Classic Tic-Tac-Toe game showcasing Java fundamentals and game logic
-
-### 📚 **Quiz App**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhhh14&repo=Quiz-App&theme=radical)](https://github.com/Nikhhh14/Quiz-App)
-> Interactive Java-based quiz application with scoring system
-
-### ⚡ **Solo Leveling Quest App**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhhh14&repo=Solo-Leveling-Quest-App&theme=radical)](https://github.com/Nikhhh14/Solo-Leveling-Quest-App)
-> Gamified quest tracker inspired by Solo Leveling - level up your daily tasks!
-
-### 🎨 **Portfolio Website**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhhh14&repo=Portfolio&theme=radical)](https://github.com/Nikhhh14/Portfolio)
-> Modern responsive portfolio built with HTML5, CSS3, JavaScript & Bootstrap
+| Project | Description | Tech Stack | 📂 Repository |
+|---------|-------------|------------|---------------|
+| **🏥 Hospital Management System** | Complete hospital management with patient records & admin dashboard | Java, Spring Boot, MySQL | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Hospital-Management-System) |
+| **🎮 TicTacToe Game** | Classic Tic-Tac-Toe game showcasing Java fundamentals | Java | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/TicTacToe) |
+| **📚 Quiz App** | Interactive Java-based quiz application with scoring | Java | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Quiz-App) |
+| **⚡ Solo Leveling Quest App** | Gamified daily task tracker inspired by Solo Leveling | JavaScript, HTML, CSS | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Solo-Leveling-Quest-App) |
+| **🎨 Portfolio Website** | Modern responsive portfolio with animations | HTML, CSS, JavaScript, Bootstrap | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Portfolio) |
 
 </div>
-
 ---
 
-## 📈 **GitHub Stats**
-
-<div align="center">
-
-[![Nikhhh14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/Nikhhh14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Nikhhh14&layout=compact&theme=radical&hide_border=true)](https://github.com/Nikhhh14)
-
-</div>
-
----
-
-## 🔥 **GitHub Activity**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhhh14&theme=radical&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhhh14&theme=radical&margin-w=10&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
----
-
-## 📊 **Streak Stats**
-
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhhh14&theme=radical&hide_border=true)
-</div>
-
----
 
 ## 🎯 **Currently Learning & Exploring**
 
