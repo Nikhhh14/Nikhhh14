@@ -8,8 +8,6 @@
 
 **Java Full Stack Developer** passionate about building scalable web applications using modern technologies. Currently upskilling in **Spring Boot, Hibernate, React** and seeking opportunities to create impactful solutions. 🚀
 
-![Profile Views](https://hit.ylianst.com/github/Nikhhh14)
-
 </div>
 
 ---
