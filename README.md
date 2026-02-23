@@ -33,25 +33,48 @@
 
 ### 🔧 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured Projects** *(Latest)*
 
 <div align="center">
 
 | Project | Description | Tech Stack | 📂 Repository |
 |---------|-------------|------------|---------------|
-| **🏥 Hospital Management System** | Complete hospital management with patient records & admin dashboard | Java, Spring Boot, MySQL | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Hospital-Management-System) |
-| **🎮 TicTacToe Game** | Classic Tic-Tac-Toe game showcasing Java fundamentals | Java | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/TicTacToe) |
-| **📚 Quiz App** | Interactive Java-based quiz application with scoring | Java | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Quiz-App) |
-| **⚡ Solo Leveling Quest App** | Gamified daily task tracker inspired by Solo Leveling | JavaScript, HTML, CSS | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Solo-Leveling-Quest-App) |
-| **🎨 Portfolio Website** | Modern responsive portfolio with animations | HTML, CSS, JavaScript, Bootstrap | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Portfolio) |
+| **🍽️ Diet Planner** | Personalized nutrition tracking app with meal planning, calorie tracking & health goals | **Java, Spring Boot, MySQL** | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Diet-Planner) |
+| **🍕 Food Delivery App** | Complete food delivery platform with restaurant management, order tracking & payments | **Java, Spring Boot, React, MySQL** | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Food-Delivery-App) |
+| **🏥 Hospital Management System** | Complete hospital management with patient records & admin dashboard | **Java, Spring Boot, MySQL** | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Hospital-Management-System) |
+| **🎮 TicTacToe Game** | Classic Tic-Tac-Toe game showcasing Java fundamentals | **Java** | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/TicTacToe) |
+| **📚 Quiz App** | Interactive Java-based quiz application with scoring system | **Java** | [![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhhh14/Quiz-App) |
 
 </div>
+
 ---
 
+## 📈 **GitHub Stats**
+
+<div align="center">
+
+[![Nikhhh14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical&hide_border=true)](https://github.com/Nikhhh14)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Nikhhh14&layout=compact&theme=radical&hide_border=true)](https://github.com/Nikhhh14)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nikhhh14&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhhh14&theme=radical&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
 
 ## 🎯 **Currently Learning & Exploring**
 
