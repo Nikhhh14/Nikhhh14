@@ -10,6 +10,8 @@
 
 </div>
 
+# 🌐 Live Demo
+[![Live Site](https://img.shields.io/badge/Live_Portfolio-667eea?style=for-the-badge&logo=github&logoColor=white)](https://nikhhh14.github.io/My-Personal-Portfolio/)
 ---
 
 ## 🔧 **Tech Stack & Tools**
