@@ -54,26 +54,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<div align="center">
-
-[![Nikhhh14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=radical&hide_border=true)](https://github.com/Nikhhh14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Nikhhh14&layout=compact&theme=radical&hide_border=true)](https://github.com/Nikhhh14)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhhh14&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhhh14&theme=radical&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
 ---
 
 ## 🎯 **Currently Learning & Exploring**
