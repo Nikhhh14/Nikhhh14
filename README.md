@@ -76,22 +76,6 @@ Hi! I'm **Nikhita Pattanshetti**, a passionate **Java Full Stack Developer** fro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhhh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff0080&text_color=c9d1d9" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhhh14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Nikhhh14&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=ff0080&fire=ff0080&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="480"/>
-
-</div>
-
----
-
 ## 🎯 Currently Learning
 
 ```text
