@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f5ff?style=for-the-badge&labelColor=0d1f38)](https://nikhhh14.github.io/My-Personal-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f5ff?style=for-the-badge&labelColor=0d1f38)](https://nikhhh14.github.io/3D-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1f38)](https://www.linkedin.com/in/nikhita-pattanshetti-03827127b)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-ff0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1f38)](mailto:nikhitavpattanshetti@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Nikhhh14?style=for-the-badge&logo=github&labelColor=0d1f38&color=7700ff)](https://github.com/Nikhhh14)
