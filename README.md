@@ -23,7 +23,6 @@ Hi! I'm **Nikhita Pattanshetti**, a passionate **Java Full Stack Developer** fro
 - 💼 Interned at **Varcons Technologies** & **Svarks Pvt. Ltd.** as a Full Stack Developer
 - 🌱 Currently upskilling in **Spring Boot**, **React**, **Microservices** & **AWS**
 - 🤝 Open to **full-time roles**, **freelance** & **collaborative projects**
-- 🌐 Check out my portfolio → **[nikhhh14.github.io/My-Personal-Portfolio](https://nikhhh14.github.io/My-Personal-Portfolio/)**
 - 🎯 Motto: **Code it, Conquer it!**
 
 ---
